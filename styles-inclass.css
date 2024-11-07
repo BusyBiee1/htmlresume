@@ -1,0 +1,34 @@
+/* class ="" => . */
+/* id = "" => # */
+
+.headingContainer{
+    border:solid black;
+}
+
+.mainimage{
+    width: 100%;
+}
+ul{
+    border:solid blue;
+
+}
+ol{
+    border:solid red;
+}
+
+.display namecontainer {
+    border: solid green;
+    height: 50px;
+}
+.display addrcontainer {
+    border: solid green;
+    height: 50px;
+}
+.display educationcontainer {
+    border: solid green;
+    height: 50px;
+}
+.display experiencecontainer {
+    border: solid green;
+    height: 50px;
+}

@@ -1,0 +1,53 @@
+/* class ="" => . */
+/* id = "" => # */
+
+.headingContainer{
+    border:solid black;
+}
+
+.mainimage{
+    width: 40%;
+    justify-content: right;
+}
+
+ul{
+    border:solid white;
+
+}
+ol{
+    border:solid white;
+}
+
+
+
+.namecontainer {
+    /*border: solid black;*/
+    height: 50px;
+    align-content: center;
+}
+.addrcontainer {
+    border: solid green;
+    height: 160px;
+}
+.educationcontainer {
+    border: solid red;
+    height: 125x;
+}
+.experiencecontainer {
+    border: solid blue;
+    height: 125x;
+}
+
+.maintitle,.subtitle{
+    text-aling:center;
+    frot-family:Abril Fatface;
+    boreder:solid lightgray;
+    border-widet:2px;
+    margin:1cm
+}
+
+.albumArt{
+    border:solid gray;
+    margin:3px;
+    width:85%;
+}
